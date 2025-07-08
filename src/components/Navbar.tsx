@@ -1,9 +1,7 @@
-import React from "react";
-
 import { Button2 } from "../components/ui/Button";
 import { useNavigate } from "react-router-dom";
 import { listed } from "../constant/listed";
-import Fituri from "./Footer";
+
 
 const Navbar = () => {
 
@@ -38,7 +36,7 @@ const Navbar = () => {
   return (
     <>
    
-    <div className="navbar bg-base-100 shadow-sm bg-gray-700 z-50 fixed top-0 w-full ">
+    <div className="navbar shadow-sm bg-gray-700 z-50 fixed top-0 w-full ">
           <div className="navbar-start">
             <div className="dropdown scale-z-100">
               <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

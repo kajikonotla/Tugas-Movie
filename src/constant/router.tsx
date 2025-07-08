@@ -6,7 +6,6 @@ import Login from '../pages/Login';
 import Action from '../pages/Action'; 
 import Comedi from '../pages/Comedi';
 import Horror from '../pages/Horror';
-import Cartoon from '../pages/Cartoon';
 import Detail from "../pages/DetailPage"; // Pastikan file ini ada
 
 

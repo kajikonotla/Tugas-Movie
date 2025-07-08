@@ -2,7 +2,7 @@
 import Navbar from "./Navbar";
 import { Card, Cardindo } from "./Card";
 import { useEffect } from "react";
-import { store, storeIndo } from "../store/movie.store";
+import { store } from "../store/movie.store";
 
 
 interface MuvieResult {
