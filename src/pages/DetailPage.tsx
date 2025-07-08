@@ -25,7 +25,7 @@ const DetailPage = () => {
     <>
       <Navbar />
       <div className="min-h-screen bg-black text-white px-4 py-10 md:px-20">
-        <h1 className="text-4xl font-extrabold mb-4 text-gray-400 ml-135 mb-30"> DETAIL PAGE</h1>
+        <h1 className="text-4xl font-extrabold mb- text-gray-400 ml-135 mb-30"> DETAIL PAGE</h1>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}

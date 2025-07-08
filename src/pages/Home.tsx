@@ -1,4 +1,3 @@
-import React from "react"
 import Rumah from "../components/Rumah";
 import Fituri from "../components/Footer";
 const Home = () => {
